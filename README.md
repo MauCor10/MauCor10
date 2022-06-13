@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MauCor10
-- 👀 I’m interested in develop Python, Javascript or Solidity, for this 2 lenguages I'm still studying yet. 
+- 👀 I’m interested in develop Python, R and data science, for this 2 lenguages I'm still studying yet. 
 - 🌱 I’m currently learning Data Science, Javascript, Solidity, R and Python.
 - 💞️ I’m looking to collaborate on any project any project that uses any of the mentioned languages to be able to give my full potential.
 - 📫 How to reach me: mauro.corrent@gmail.com
